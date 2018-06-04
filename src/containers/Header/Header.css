@@ -1,0 +1,31 @@
+header.header {
+  background-color: rgba(255,194,0,0.9);
+}
+
+.header-logo {
+  animation: header-logo-spin infinite 369s linear;
+  height: 80px;
+}
+
+.header-title {
+  font-size: 2.0em;
+}
+
+.header-intro {
+  font-size: large;
+}
+
+@keyframes header-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+header .nav {
+}
+
+/*  drawer */
+.MuiPaper-root-9.MuiPaper-elevation16-27.MuiDrawer-paper-89.MuiDrawer-paperAnchorLeft-90 {
+  background-color: rgba(255,255,255,0.9);
+}
+
+

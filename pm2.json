@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "otsuka-front",
+      "script": "npm",
+      "args" : "start"
+    }
+  ]
+}
