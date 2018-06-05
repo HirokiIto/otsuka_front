@@ -1,4 +1,4 @@
-# create-react-app mobx react-router4 auth by firebase and material-ui
+# Otsuka front
 
 Since it is necessary to connect with the server side, this project is not functioning alone,
 The following link can be started immediately
@@ -17,6 +17,11 @@ sign up components etc are not included in this demo
 You can sign in by input the following mail and pass.
 * mail: xxx@gmail.com
 * pass: aaaaaa
+
+## Road Map
+
+* Make https with nginx
+* take camera after input check-in info
 
 ## Project Structure
 
