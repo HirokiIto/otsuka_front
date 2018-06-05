@@ -5,6 +5,7 @@ import './App.css';
 
 import Header from '../Header';
 import Main from '../../components/Main';
+import Footer from '../../components/Footer';
 /*
  * AppをwithAuthenticationに噛ませることでreloadしてもsession.userが保たれる
  */
@@ -22,6 +23,7 @@ class App extends Component {
       <div className="App" style={styles.app}>
         <Header />
         <Main />
+        <Footer />
       </div>
     );
   }
