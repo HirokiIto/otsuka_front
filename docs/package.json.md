@@ -43,6 +43,7 @@ $ npm install --save mobx mobx-react
 * @material-ui/icons
 * react-calendar-timeline
 * moment
+* react-helmet
 
 sampleで必要だった→
 
